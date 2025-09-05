@@ -66,8 +66,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 - Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-🛡️ License
+🛡️ **License**
+
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-🌟 About Me
-Hi there! I'm Chackriya Som. I’m a data science professional and passionate humanitarian on a mission to share knowledge and working with data to make tangible change for a better world.
+🌟 **About Me**
+
+Hi there! I'm Chackriya Som. I’m a public health, data science professional, and passionate humanitarian on a mission to share knowledge and working with data to make tangible change for a better world.
